@@ -1,0 +1,8 @@
+devemos fazer com arquivos sigilosos, ou arquivos que estao contendo a regra do negocio, devemos colocar fora da pasta publica (htdocs => essa eh pasta publica do nosso servidor)
+
+
+vamos criar um arquivo que valida_login.php dentro da aplicacao na pasta publica, e vamos usar as funcoes para incorporar os aquivos que estao fora da pasta publica
+"como include, include_once, require, ou require_once"
+
+usando a nevegacao de diretorio 
+como por exemplo ../nome_do_diretorio
